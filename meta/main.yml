@@ -1,0 +1,21 @@
+---
+galaxy_info:
+  author: chriskxl@gmail.com
+  description: Dumps all the ansible variables into a file for inspection on host
+  company: KXL
+  license: GNUv3
+  min_ansible_version: 1.4
+  platforms:
+    - name: EL
+      versions:
+        - all
+    - name: GenericUNIX
+      versions:
+        - all
+    - name: Fedora
+      versions:
+        - all
+  galaxy_tags:
+    - system
+    - development
+dependencies: []

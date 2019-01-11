@@ -1,0 +1,5 @@
+---
+kxlops_dumpme_flat_mode: no
+kxlops_dumpme_guest_destination: /tmp/kxlops_dumpme_ansible.txt
+kxlops_dumpme_host_destination: ../dumpme
+kxlops_dumpme_remove_host_file: no
